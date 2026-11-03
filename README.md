@@ -1,2 +1,0 @@
-# Kefirs.ch
-Projet Kéfir
