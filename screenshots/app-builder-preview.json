@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FermenStation — commander",
+      "hasCanvas": false,
+      "bodyTextLen": 419,
+      "bodyTextHash": "683dfddf284bb59623aa1d7d5883135a3453942129253f48b4ce61da8484c629",
+      "bodyTextPrefix": "FermenStation Suivre Atelier COMMANDE FermenStation Station 7, q",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FermenStation — commander",
+      "hasCanvas": false,
+      "bodyTextLen": 377,
+      "bodyTextHash": "ecddb266e0334e87f7ffc43496b20d73695e3c76bda5d36e2471d47df739e824",
+      "bodyTextPrefix": "FermenStation Suivre Atelier COMMANDE FermenStation Station 7, q",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

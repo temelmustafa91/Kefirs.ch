@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="FermenStation">
+  <rect width="32" height="32" rx="7" fill="#07080C"/>
+  <path d="M12.2 8.2h7.6v1.6c1.5.4 2.4 1.4 2.4 2.8V23a2.4 2.4 0 0 1-2.4 2.4h-7.6A2.4 2.4 0 0 1 9.8 23v-10.4c0-1.4.9-2.4 2.4-2.8V8.2z" fill="#E25C28"/>
+  <rect x="12.4" y="6.4" width="7.2" height="2.2" rx="1" fill="#F3EFE6"/>
+</svg>
